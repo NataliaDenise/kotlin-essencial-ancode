@@ -1,2 +1,5 @@
 package arrays
 
+fun main() {
+    
+}
