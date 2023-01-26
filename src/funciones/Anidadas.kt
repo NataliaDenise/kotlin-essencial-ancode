@@ -6,6 +6,7 @@ import kotlin.math.ceil
 fun main() {
     val area = calcularAreaRectangulo(0.5,3.5)
     println(area)
+
 }
 
 fun calcularNumeroDeBaldosas( anchoEstancia: Double, largoEstancia: Double, anchoBaldosa: Double, largoBaldosa: Double): Int {
