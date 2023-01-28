@@ -8,6 +8,7 @@ class Juego {
             puntuacion = puntuacion + puntos
         }
         fun decrementar(puntos: Int) {
+            puntuacion = puntuacion - puntos
         }
     }
 }
